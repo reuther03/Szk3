@@ -1,0 +1,11 @@
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\bin\Debug\net9.0\Szk3.Company.Application.deps.json
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\bin\Debug\net9.0\Szk3.Company.Application.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\bin\Debug\net9.0\Szk3.Company.Application.pdb
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\obj\Debug\net9.0\Szk3.Company.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\obj\Debug\net9.0\Szk3.Company.Application.AssemblyInfoInputs.cache
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\obj\Debug\net9.0\Szk3.Company.Application.AssemblyInfo.cs
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\obj\Debug\net9.0\Szk3.Company.Application.csproj.CoreCompileInputs.cache
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\obj\Debug\net9.0\Szk3.Company.Application.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\obj\Debug\net9.0\refint\Szk3.Company.Application.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\obj\Debug\net9.0\Szk3.Company.Application.pdb
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Company.Application\obj\Debug\net9.0\ref\Szk3.Company.Application.dll

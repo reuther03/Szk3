@@ -1,0 +1,6 @@
+@Szk3.Country.Api_HostAddress = http://localhost:5094
+
+GET {{Szk3.Country.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

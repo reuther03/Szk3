@@ -1,0 +1,11 @@
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\bin\Debug\net9.0\Szk3.Common.Abstractions.deps.json
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\bin\Debug\net9.0\Szk3.Common.Abstractions.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\bin\Debug\net9.0\Szk3.Common.Abstractions.pdb
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\obj\Debug\net9.0\Szk3.Common.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\obj\Debug\net9.0\Szk3.Common.Abstractions.AssemblyInfoInputs.cache
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\obj\Debug\net9.0\Szk3.Common.Abstractions.AssemblyInfo.cs
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\obj\Debug\net9.0\Szk3.Common.Abstractions.csproj.CoreCompileInputs.cache
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\obj\Debug\net9.0\Szk3.Common.Abstractions.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\obj\Debug\net9.0\refint\Szk3.Common.Abstractions.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\obj\Debug\net9.0\Szk3.Common.Abstractions.pdb
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Common.Abstractions\obj\Debug\net9.0\ref\Szk3.Common.Abstractions.dll

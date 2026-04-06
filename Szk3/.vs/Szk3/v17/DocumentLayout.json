@@ -1,0 +1,669 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SzkolenieTechniczne3_2026\\Szk3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3470FAA-E906-683F-257C-7EE32A42C66C}|Szk3.Country.Infra\\Szk3.Country.Infra.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.country.infra\\countrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3470FAA-E906-683F-257C-7EE32A42C66C}|Szk3.Country.Infra\\Szk3.Country.Infra.csproj|solutionrelative:szk3.country.infra\\countrydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE769EE1-E814-76AD-9E80-642F67377E10}|Szk3.Common.Infra\\Szk3.Common.Infra.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.infra\\platformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE769EE1-E814-76AD-9E80-642F67377E10}|Szk3.Common.Infra\\Szk3.Common.Infra.csproj|solutionrelative:szk3.common.infra\\platformdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF6F9B9-2587-4B1D-89E4-C49889A19DE8}|Szk3.Country.Application\\Szk3.Country.Application.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.country.application\\common\\icountrycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF6F9B9-2587-4B1D-89E4-C49889A19DE8}|Szk3.Country.Application\\Szk3.Country.Application.csproj|solutionrelative:szk3.country.application\\common\\icountrycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2725CF47-90EB-3CF1-A518-AB6932E8F126}|Szk3.Common.Application\\Szk3.Common.Application.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.application\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2725CF47-90EB-3CF1-A518-AB6932E8F126}|Szk3.Common.Application\\Szk3.Common.Application.csproj|solutionrelative:szk3.common.application\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4E7120-3DCD-4059-8D8F-DC00DD1B3313}|Szk3.Country.Domain\\Szk3.Country.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.country.domain\\entities\\countries\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4E7120-3DCD-4059-8D8F-DC00DD1B3313}|Szk3.Country.Domain\\Szk3.Country.Domain.csproj|solutionrelative:szk3.country.domain\\entities\\countries\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF6F9B9-2587-4B1D-89E4-C49889A19DE8}|Szk3.Country.Application\\Szk3.Country.Application.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.country.application\\common\\iquerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EF6F9B9-2587-4B1D-89E4-C49889A19DE8}|Szk3.Country.Application\\Szk3.Country.Application.csproj|solutionrelative:szk3.country.application\\common\\iquerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4E7120-3DCD-4059-8D8F-DC00DD1B3313}|Szk3.Country.Domain\\Szk3.Country.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.country.domain\\entities\\countries\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4E7120-3DCD-4059-8D8F-DC00DD1B3313}|Szk3.Country.Domain\\Szk3.Country.Domain.csproj|solutionrelative:szk3.country.domain\\entities\\countries\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3470FAA-E906-683F-257C-7EE32A42C66C}|Szk3.Country.Infra\\Szk3.Country.Infra.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.country.infra\\dbconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3470FAA-E906-683F-257C-7EE32A42C66C}|Szk3.Country.Infra\\Szk3.Country.Infra.csproj|solutionrelative:szk3.country.infra\\dbconst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF6F9B9-2587-4B1D-89E4-C49889A19DE8}|Szk3.Country.Application\\Szk3.Country.Application.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.country.application\\szk3.country.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EF6F9B9-2587-4B1D-89E4-C49889A19DE8}|Szk3.Country.Application\\Szk3.Country.Application.csproj|solutionrelative:szk3.country.application\\szk3.country.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.company.domain\\entities\\company\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|solutionrelative:szk3.company.domain\\entities\\company\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.company.domain\\entities\\jobposition\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|solutionrelative:szk3.company.domain\\entities\\jobposition\\jobposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.company.domain\\entities\\company\\companyaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|solutionrelative:szk3.company.domain\\entities\\company\\companyaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.company.domain\\entities\\company\\companyowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|solutionrelative:szk3.company.domain\\entities\\company\\companyowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.company.domain\\entities\\jobposition\\positionrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|solutionrelative:szk3.company.domain\\entities\\jobposition\\positionrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.company.domain\\entities\\jobposition\\positionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|solutionrelative:szk3.company.domain\\entities\\jobposition\\positionrequirement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.company.domain\\enums\\ratetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC006A90-AA68-4813-91BB-898708A95C10}|Szk3.Company.Domain\\Szk3.Company.Domain.csproj|solutionrelative:szk3.company.domain\\enums\\ratetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.domain\\entities\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|solutionrelative:szk3.common.domain\\entities\\aggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|solutionrelative:szk3.common.domain\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.domain\\interfaces\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|solutionrelative:szk3.common.domain\\interfaces\\iaggregateroot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|solutionrelative:szk3.common.domain\\interfaces\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.domain\\interfaces\\isoftdeletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|solutionrelative:szk3.common.domain\\interfaces\\isoftdeletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.domain\\interfaces\\ireadonlyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D3B9A0-CD89-41C8-A3DA-E63FECF16B24}|Szk3.Common.Domain\\Szk3.Common.Domain.csproj|solutionrelative:szk3.common.domain\\interfaces\\ireadonlyentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4E7120-3DCD-4059-8D8F-DC00DD1B3313}|Szk3.Country.Domain\\Szk3.Country.Domain.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.country.domain\\szk3.country.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C4E7120-3DCD-4059-8D8F-DC00DD1B3313}|Szk3.Country.Domain\\Szk3.Country.Domain.csproj|solutionrelative:szk3.country.domain\\szk3.country.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Orders.Domain\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szk3.Orders.Domain\\Entities\\Order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Orders.Domain\\Enums\\OrderStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Szk3.Orders.Domain\\Enums\\OrderStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE915AF7-D54D-2B91-4430-FF272D14E84B}|Szk3.Common.Abstractions\\Szk3.Common.Abstractions.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.abstractions\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE915AF7-D54D-2B91-4430-FF272D14E84B}|Szk3.Common.Abstractions\\Szk3.Common.Abstractions.csproj|solutionrelative:szk3.common.abstractions\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE915AF7-D54D-2B91-4430-FF272D14E84B}|Szk3.Common.Abstractions\\Szk3.Common.Abstractions.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.abstractions\\exceptions\\platformbusinessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE915AF7-D54D-2B91-4430-FF272D14E84B}|Szk3.Common.Abstractions\\Szk3.Common.Abstractions.csproj|solutionrelative:szk3.common.abstractions\\exceptions\\platformbusinessexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE915AF7-D54D-2B91-4430-FF272D14E84B}|Szk3.Common.Abstractions\\Szk3.Common.Abstractions.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.abstractions\\services\\iservicescoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE915AF7-D54D-2B91-4430-FF272D14E84B}|Szk3.Common.Abstractions\\Szk3.Common.Abstractions.csproj|solutionrelative:szk3.common.abstractions\\services\\iservicescoped.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE915AF7-D54D-2B91-4430-FF272D14E84B}|Szk3.Common.Abstractions\\Szk3.Common.Abstractions.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.abstractions\\exceptions\\platformexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE915AF7-D54D-2B91-4430-FF272D14E84B}|Szk3.Common.Abstractions\\Szk3.Common.Abstractions.csproj|solutionrelative:szk3.common.abstractions\\exceptions\\platformexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2725CF47-90EB-3CF1-A518-AB6932E8F126}|Szk3.Common.Application\\Szk3.Common.Application.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.common.application\\interfaces\\iquerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2725CF47-90EB-3CF1-A518-AB6932E8F126}|Szk3.Common.Application\\Szk3.Common.Application.csproj|solutionrelative:szk3.common.application\\interfaces\\iquerycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0CE5A8-3B10-7E11-710B-23821ECAF532}|Szk3.Company.Application\\Szk3.Company.Application.csproj|c:\\szkolenietechniczne3_2026\\szk3\\szk3.company.application\\common\\icompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0CE5A8-3B10-7E11-710B-23821ECAF532}|Szk3.Company.Application\\Szk3.Company.Application.csproj|solutionrelative:szk3.company.application\\common\\icompanycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 27,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{778b5376-ad77-4751-acdc-f3d18343f8dd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2ffc3976-88be-4e8a-8913-68245bb123f9}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Szk3.Country.Application.csproj",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Application\\Szk3.Country.Application.csproj",
+              "RelativeDocumentMoniker": "Szk3.Country.Application\\Szk3.Country.Application.csproj",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Application\\Szk3.Country.Application.csproj",
+              "RelativeToolTip": "Szk3.Country.Application\\Szk3.Country.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T17:58:21.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbConst.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Infra\\DbConst.cs",
+              "RelativeDocumentMoniker": "Szk3.Country.Infra\\DbConst.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Infra\\DbConst.cs",
+              "RelativeToolTip": "Szk3.Country.Infra\\DbConst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:15:39.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryDbContext.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Infra\\CountryDbContext.cs",
+              "RelativeDocumentMoniker": "Szk3.Country.Infra\\CountryDbContext.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Infra\\CountryDbContext.cs",
+              "RelativeToolTip": "Szk3.Country.Infra\\CountryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:07:14.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlatformDbContext.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Infra\\PlatformDbContext.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Infra\\PlatformDbContext.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Infra\\PlatformDbContext.cs",
+              "RelativeToolTip": "Szk3.Common.Infra\\PlatformDbContext.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAtwEsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T15:05:14.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Abstractions\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Abstractions\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Abstractions\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "Szk3.Common.Abstractions\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:08:56.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PlatformBusinessException.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Abstractions\\Exceptions\\PlatformBusinessException.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Abstractions\\Exceptions\\PlatformBusinessException.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Abstractions\\Exceptions\\PlatformBusinessException.cs",
+              "RelativeToolTip": "Szk3.Common.Abstractions\\Exceptions\\PlatformBusinessException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:10:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICountryContext.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Application\\Common\\ICountryContext.cs",
+              "RelativeDocumentMoniker": "Szk3.Country.Application\\Common\\ICountryContext.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Application\\Common\\ICountryContext.cs",
+              "RelativeToolTip": "Szk3.Country.Application\\Common\\ICountryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:44:52.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IQueryContext.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Application\\Common\\IQueryContext.cs",
+              "RelativeDocumentMoniker": "Szk3.Country.Application\\Common\\IQueryContext.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Application\\Common\\IQueryContext.cs",
+              "RelativeToolTip": "Szk3.Country.Application\\Common\\IQueryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:41:32.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IServiceScoped.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Abstractions\\Services\\IServiceScoped.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Abstractions\\Services\\IServiceScoped.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Abstractions\\Services\\IServiceScoped.cs",
+              "RelativeToolTip": "Szk3.Common.Abstractions\\Services\\IServiceScoped.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:04:53.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Application\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Application\\Interfaces\\IContext.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Application\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "Szk3.Common.Application\\Interfaces\\IContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:11:59.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PlatformException.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Abstractions\\Exceptions\\PlatformException.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Abstractions\\Exceptions\\PlatformException.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Abstractions\\Exceptions\\PlatformException.cs",
+              "RelativeToolTip": "Szk3.Common.Abstractions\\Exceptions\\PlatformException.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAABBwAIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:08:22.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IQueryContext.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Application\\Interfaces\\IQueryContext.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Application\\Interfaces\\IQueryContext.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Application\\Interfaces\\IQueryContext.cs",
+              "RelativeToolTip": "Szk3.Common.Application\\Interfaces\\IQueryContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T14:11:27.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\Company\\Company.cs",
+              "RelativeDocumentMoniker": "Szk3.Company.Domain\\Entities\\Company\\Company.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\Company\\Company.cs",
+              "RelativeToolTip": "Szk3.Company.Domain\\Entities\\Company\\Company.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAABBwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:43:32.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobPosition.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\JobPosition\\JobPosition.cs",
+              "RelativeDocumentMoniker": "Szk3.Company.Domain\\Entities\\JobPosition\\JobPosition.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\JobPosition\\JobPosition.cs",
+              "RelativeToolTip": "Szk3.Company.Domain\\Entities\\JobPosition\\JobPosition.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:36:24.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Domain\\Entities\\Countries\\City.cs",
+              "RelativeDocumentMoniker": "Szk3.Country.Domain\\Entities\\Countries\\City.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Domain\\Entities\\Countries\\City.cs",
+              "RelativeToolTip": "Szk3.Country.Domain\\Entities\\Countries\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:09:47.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Domain\\Entities\\Countries\\Country.cs",
+              "RelativeDocumentMoniker": "Szk3.Country.Domain\\Entities\\Countries\\Country.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Domain\\Entities\\Countries\\Country.cs",
+              "RelativeToolTip": "Szk3.Country.Domain\\Entities\\Countries\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:23:15.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ICompanyContext.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Application\\Common\\ICompanyContext.cs",
+              "RelativeDocumentMoniker": "Szk3.Company.Application\\Common\\ICompanyContext.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Application\\Common\\ICompanyContext.cs",
+              "RelativeToolTip": "Szk3.Company.Application\\Common\\ICompanyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T13:59:25.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CompanyOwner.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\Company\\CompanyOwner.cs",
+              "RelativeDocumentMoniker": "Szk3.Company.Domain\\Entities\\Company\\CompanyOwner.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\Company\\CompanyOwner.cs",
+              "RelativeToolTip": "Szk3.Company.Domain\\Entities\\Company\\CompanyOwner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:53:09.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CompanyAddress.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\Company\\CompanyAddress.cs",
+              "RelativeDocumentMoniker": "Szk3.Company.Domain\\Entities\\Company\\CompanyAddress.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\Company\\CompanyAddress.cs",
+              "RelativeToolTip": "Szk3.Company.Domain\\Entities\\Company\\CompanyAddress.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAABRwCQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T17:23:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PositionRate.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\JobPosition\\PositionRate.cs",
+              "RelativeDocumentMoniker": "Szk3.Company.Domain\\Entities\\JobPosition\\PositionRate.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\JobPosition\\PositionRate.cs",
+              "RelativeToolTip": "Szk3.Company.Domain\\Entities\\JobPosition\\PositionRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:40:40.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISoftDeletable.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Interfaces\\ISoftDeletable.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Domain\\Interfaces\\ISoftDeletable.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Interfaces\\ISoftDeletable.cs",
+              "RelativeToolTip": "Szk3.Common.Domain\\Interfaces\\ISoftDeletable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:58:43.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IReadonlyEntity.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Interfaces\\IReadonlyEntity.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Domain\\Interfaces\\IReadonlyEntity.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Interfaces\\IReadonlyEntity.cs",
+              "RelativeToolTip": "Szk3.Common.Domain\\Interfaces\\IReadonlyEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:58:23.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Interfaces\\IEntity.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Domain\\Interfaces\\IEntity.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Interfaces\\IEntity.cs",
+              "RelativeToolTip": "Szk3.Common.Domain\\Interfaces\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:57:45.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PositionRequirement.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\JobPosition\\PositionRequirement.cs",
+              "RelativeDocumentMoniker": "Szk3.Company.Domain\\Entities\\JobPosition\\PositionRequirement.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Entities\\JobPosition\\PositionRequirement.cs",
+              "RelativeToolTip": "Szk3.Company.Domain\\Entities\\JobPosition\\PositionRequirement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:42:55.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RateType.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Enums\\RateType.cs",
+              "RelativeDocumentMoniker": "Szk3.Company.Domain\\Enums\\RateType.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Company.Domain\\Enums\\RateType.cs",
+              "RelativeToolTip": "Szk3.Company.Domain\\Enums\\RateType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:41:34.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Orders.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "Szk3.Orders.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Orders.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "Szk3.Orders.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:51:59.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderStatus.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Orders.Domain\\Enums\\OrderStatus.cs",
+              "RelativeDocumentMoniker": "Szk3.Orders.Domain\\Enums\\OrderStatus.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Orders.Domain\\Enums\\OrderStatus.cs",
+              "RelativeToolTip": "Szk3.Orders.Domain\\Enums\\OrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:54:56.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAggregateRoot.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Interfaces\\IAggregateRoot.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Domain\\Interfaces\\IAggregateRoot.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Interfaces\\IAggregateRoot.cs",
+              "RelativeToolTip": "Szk3.Common.Domain\\Interfaces\\IAggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:59:51.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Domain\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "Szk3.Common.Domain\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:00:55.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AggregateRoot.cs",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Entities\\AggregateRoot.cs",
+              "RelativeDocumentMoniker": "Szk3.Common.Domain\\Entities\\AggregateRoot.cs",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Common.Domain\\Entities\\AggregateRoot.cs",
+              "RelativeToolTip": "Szk3.Common.Domain\\Entities\\AggregateRoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T13:01:47.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Szk3.Country.Domain.csproj",
+              "DocumentMoniker": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Domain\\Szk3.Country.Domain.csproj",
+              "RelativeDocumentMoniker": "Szk3.Country.Domain\\Szk3.Country.Domain.csproj",
+              "ToolTip": "C:\\SzkolenieTechniczne3_2026\\Szk3\\Szk3.Country.Domain\\Szk3.Country.Domain.csproj",
+              "RelativeToolTip": "Szk3.Country.Domain\\Szk3.Country.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-04T13:26:50.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a8466fe-5a05-4f81-ad45-7d7c1316817e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

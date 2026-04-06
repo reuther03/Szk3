@@ -1,0 +1,15 @@
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\bin\Debug\net9.0\Szk3.Country.Domain.deps.json
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\bin\Debug\net9.0\Szk3.Country.Domain.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\bin\Debug\net9.0\Szk3.Country.Domain.pdb
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.AssemblyInfoInputs.cache
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.AssemblyInfo.cs
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.csproj.CoreCompileInputs.cache
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\refint\Szk3.Country.Domain.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.pdb
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\ref\Szk3.Country.Domain.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\bin\Debug\net9.0\Szk3.Common.Domain.dll
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\bin\Debug\net9.0\Szk3.Common.Domain.pdb
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.csproj.AssemblyReference.cache
+C:\SzkolenieTechniczne3_2026\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Cou.3918747E.Up2Date
