@@ -4,9 +4,11 @@ namespace Szk3.Company.Domain.Entities.JobPosition;
 
 public class JobPosition : AggregateRoot<int>
 {
-    protected JobPosition() { }
+    protected JobPosition()
+    {
+    }
 
-    public JobPosition( string name, string? code = null, bool isActive = true)
+    public JobPosition(string name, string? code = null, bool isActive = true)
     {
         Name = name;
         Code = code;
@@ -22,6 +24,22 @@ public class JobPosition : AggregateRoot<int>
 
     private readonly List<PositionRequirement> _requirement = new();
     public IReadOnlyCollection<PositionRequirement> Requirement => _requirement;
+
+    public void AddRate(PositionRate rate)
+    {
+        if (_rates.Contains(rate))
+            throw new InvalidOperationException("Rate already exists for this position.");
+
+        _rates.Add(rate);
+    }
+
+    public void AddRequirement(PositionRequirement requirement)
+    {
+        if (_requirement.Contains(requirement))
+            throw new InvalidOperationException("Requirement already exists for this position.");
+
+        _requirement.Add(requirement);
+    }
 
 
     public void Activate() => IsActive = true;

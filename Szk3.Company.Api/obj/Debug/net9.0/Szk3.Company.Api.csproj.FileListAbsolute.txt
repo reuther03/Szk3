@@ -179,3 +179,4 @@ C:\Users\micha\Desktop\Szk3\Szk3.Company.Api\obj\Debug\net9.0\refint\Szk3.Compan
 C:\Users\micha\Desktop\Szk3\Szk3.Company.Api\obj\Debug\net9.0\Szk3.Company.Api.pdb
 C:\Users\micha\Desktop\Szk3\Szk3.Company.Api\obj\Debug\net9.0\Szk3.Company.Api.genruntimeconfig.cache
 C:\Users\micha\Desktop\Szk3\Szk3.Company.Api\obj\Debug\net9.0\ref\Szk3.Company.Api.dll
+C:\Users\micha\Desktop\Szk3\Szk3.Company.Api\obj\Debug\net9.0\Szk3.Company.Api.sourcelink.json

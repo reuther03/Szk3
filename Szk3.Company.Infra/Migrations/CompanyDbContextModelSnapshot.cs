@@ -154,6 +154,109 @@ namespace Szk3.Company.Infra.Migrations
                     b.ToTable("CompanyOwner");
                 });
 
+            modelBuilder.Entity("Szk3.Company.Domain.Entities.JobPosition.JobPosition", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Code")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime>("CreatedOnUtc")
+                        .HasColumnType("datetime2");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("bit");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("bit");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("UpdatedOnUtc")
+                        .HasColumnType("datetime2");
+
+                    b.Property<byte[]>("Version")
+                        .IsConcurrencyToken()
+                        .IsRequired()
+                        .ValueGeneratedOnAddOrUpdate()
+                        .HasColumnType("rowversion");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("JobPositions");
+                });
+
+            modelBuilder.Entity("Szk3.Company.Domain.Entities.JobPosition.PositionRate", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<decimal>("Amount")
+                        .HasColumnType("decimal(18,2)");
+
+                    b.Property<DateTime>("CreatedOnUtc")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Currency")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("JobPositionId")
+                        .HasColumnType("int");
+
+                    b.Property<int>("RateType")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("UpdatedOnUtc")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("JobPositionId");
+
+                    b.ToTable("PositionRate");
+                });
+
+            modelBuilder.Entity("Szk3.Company.Domain.Entities.JobPosition.PositionRequirement", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("CreatedOnUtc")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("JobPositionId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("UpdatedOnUtc")
+                        .HasColumnType("datetime2");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("JobPositionId");
+
+                    b.ToTable("PositionRequirement");
+                });
+
             modelBuilder.Entity("Szk3.Company.Domain.Entities.Company.CompanyAddress", b =>
                 {
                     b.HasOne("Szk3.Company.Domain.Entities.Company.Company", null)
@@ -168,11 +271,32 @@ namespace Szk3.Company.Infra.Migrations
                         .HasForeignKey("CompanyId");
                 });
 
+            modelBuilder.Entity("Szk3.Company.Domain.Entities.JobPosition.PositionRate", b =>
+                {
+                    b.HasOne("Szk3.Company.Domain.Entities.JobPosition.JobPosition", null)
+                        .WithMany("Rates")
+                        .HasForeignKey("JobPositionId");
+                });
+
+            modelBuilder.Entity("Szk3.Company.Domain.Entities.JobPosition.PositionRequirement", b =>
+                {
+                    b.HasOne("Szk3.Company.Domain.Entities.JobPosition.JobPosition", null)
+                        .WithMany("Requirement")
+                        .HasForeignKey("JobPositionId");
+                });
+
             modelBuilder.Entity("Szk3.Company.Domain.Entities.Company.Company", b =>
                 {
                     b.Navigation("Addresses");
 
                     b.Navigation("Owners");
+                });
+
+            modelBuilder.Entity("Szk3.Company.Domain.Entities.JobPosition.JobPosition", b =>
+                {
+                    b.Navigation("Rates");
+
+                    b.Navigation("Requirement");
                 });
 #pragma warning restore 612, 618
         }

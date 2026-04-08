@@ -21,3 +21,4 @@ C:\Users\micha\Desktop\Szk3\Szk3.Company.Infra\obj\Debug\net9.0\Szk3.Company.Inf
 C:\Users\micha\Desktop\Szk3\Szk3.Company.Infra\obj\Debug\net9.0\refint\Szk3.Company.Infra.dll
 C:\Users\micha\Desktop\Szk3\Szk3.Company.Infra\obj\Debug\net9.0\Szk3.Company.Infra.pdb
 C:\Users\micha\Desktop\Szk3\Szk3.Company.Infra\obj\Debug\net9.0\ref\Szk3.Company.Infra.dll
+C:\Users\micha\Desktop\Szk3\Szk3.Company.Infra\obj\Debug\net9.0\Szk3.Company.Infra.sourcelink.json

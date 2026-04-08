@@ -28,3 +28,4 @@ C:\Users\micha\Desktop\Szk3\Szk3.Common.Application\obj\Debug\net9.0\Szk3.Common
 C:\Users\micha\Desktop\Szk3\Szk3.Common.Application\obj\Debug\net9.0\refint\Szk3.Common.Application.dll
 C:\Users\micha\Desktop\Szk3\Szk3.Common.Application\obj\Debug\net9.0\Szk3.Common.Application.pdb
 C:\Users\micha\Desktop\Szk3\Szk3.Common.Application\obj\Debug\net9.0\ref\Szk3.Common.Application.dll
+C:\Users\micha\Desktop\Szk3\Szk3.Common.Application\obj\Debug\net9.0\Szk3.Common.Application.sourcelink.json

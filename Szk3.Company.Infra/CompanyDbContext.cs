@@ -19,6 +19,7 @@ public class CompanyDbContext : PlatformDbContext, ICompanyContext
     }
 
     public DbSet<Domain.Entities.Company.Company> Companies { get; set; } = null!;
+    public DbSet<JobPosition> JobPositions { get; set; } = null!;
 
     public IQueryable<JobPosition> JobPositionQuery => Set<JobPosition>().AsNoTracking().AsQueryable();
 

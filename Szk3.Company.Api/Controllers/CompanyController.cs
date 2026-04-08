@@ -69,9 +69,6 @@ public class CompanyController : ControllerBase
     {
         var result = await _mediator.Send(new GetCompanyQuery(id), cancellationToken);
 
-        if (result is null)
-            return NotFound();
-
         return Ok(result);
     }
 }

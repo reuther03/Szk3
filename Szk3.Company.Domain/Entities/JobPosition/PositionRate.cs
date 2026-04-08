@@ -5,7 +5,6 @@ namespace Szk3.Company.Domain.Entities.JobPosition;
 
 public class PositionRate : EntityBase<int>
 {
-
     public decimal Amount { get; private set; }
     public string Currency { get; private set; } = null!;
 

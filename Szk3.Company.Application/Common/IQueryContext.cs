@@ -4,7 +4,7 @@ namespace Szk3.Company.Application.Common;
 
 public interface IQueryContext
 {
-    IQueryable<JobPosition> JobPositionQuery { get; }
+    IQueryable<Domain.Entities.JobPosition.JobPosition> JobPositionQuery { get; }
 
     IQueryable<Domain.Entities.Company.Company> CompanyQuery { get; }
 }
