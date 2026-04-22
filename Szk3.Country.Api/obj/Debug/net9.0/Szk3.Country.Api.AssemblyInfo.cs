@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Szk3.Country.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+083bd90f783c8cf7bfe660c55fa994d1ccbee2e1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+045295e044bf206fc084e1e0359bafc732217aae")]
 [assembly: System.Reflection.AssemblyProductAttribute("Szk3.Country.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Szk3.Country.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -48,3 +48,4 @@ C:\Users\micha\Desktop\Szk3\Szk3.Country.Infra\obj\Debug\net9.0\refint\Szk3.Coun
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Infra\obj\Debug\net9.0\Szk3.Country.Infra.pdb
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Infra\obj\Debug\net9.0\Szk3.Country.Infra.genruntimeconfig.cache
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Infra\obj\Debug\net9.0\ref\Szk3.Country.Infra.dll
+C:\Users\micha\Desktop\Szk3\Szk3.Country.Infra\obj\Debug\net9.0\Szk3.Country.Infra.sourcelink.json

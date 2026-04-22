@@ -92,9 +92,12 @@ namespace Szk3.Company.Infra.Migrations
                     b.Property<int?>("CompanyId")
                         .HasColumnType("int");
 
-                    b.Property<string>("Country")
+                    b.Property<string>("CountryDisplay")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("CountryExternalId")
+                        .HasColumnType("int");
 
                     b.Property<DateTime>("CreatedOnUtc")
                         .HasColumnType("datetime2");

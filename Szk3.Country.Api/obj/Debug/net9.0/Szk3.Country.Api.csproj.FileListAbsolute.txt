@@ -363,3 +363,4 @@ C:\Users\micha\Desktop\Szk3\Szk3.Country.Api\obj\Debug\net9.0\refint\Szk3.Countr
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Api\obj\Debug\net9.0\Szk3.Country.Api.pdb
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Api\obj\Debug\net9.0\Szk3.Country.Api.genruntimeconfig.cache
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Api\obj\Debug\net9.0\ref\Szk3.Country.Api.dll
+C:\Users\micha\Desktop\Szk3\Szk3.Country.Api\obj\Debug\net9.0\Szk3.Country.Api.sourcelink.json

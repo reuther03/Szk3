@@ -9,4 +9,5 @@ public sealed record AddCompanyAddressCommand(
     string? ApartmentNumber,
     string PostalCode,
     string City,
-    string Country) : IRequest<int>;
+    int CountryExternalId,
+    bool IsActive) : IRequest<int>;

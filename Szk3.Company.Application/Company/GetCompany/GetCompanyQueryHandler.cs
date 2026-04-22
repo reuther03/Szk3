@@ -1,4 +1,4 @@
-﻿using MediatR;
+using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Szk3.Company.Application.Common;
 using Szk3.Company.Application.Company.Models;
@@ -36,7 +36,8 @@ public class GetCompanyQueryHandler : IRequestHandler<GetCompanyQuery, CompanyDe
                         ApartmentNumber = a.ApartmentNumber,
                         PostalCode = a.PostalCode,
                         City = a.City,
-                        Country = a.Country,
+                        CountryExternalId = a.CountryExternalId,
+                        CountryDisplay = a.CountryDisplay,
                         IsActive = a.IsActive
                     })
                     .ToList(),

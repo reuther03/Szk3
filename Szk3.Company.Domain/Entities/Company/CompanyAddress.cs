@@ -2,25 +2,22 @@
 
 namespace Szk3.Company.Domain.Entities.Company
 {
-   public class CompanyAddress : EntityBase<int>
+    public class CompanyAddress : EntityBase<int>
     {
-        protected CompanyAddress() { }
+        protected CompanyAddress()
+        {
+        }
 
-        public CompanyAddress(
-            string street,
-            string buildingNumber,
-            string? apartmentNumber,
-            string postalCode,
-            string city,
-            string country,
-            bool isActive = true)
+        public CompanyAddress(string street, string buildingNumber, string? apartmentNumber, string postalCode, string city, int countryExternalId,
+            string countryDisplay, bool isActive)
         {
             Street = street;
             BuildingNumber = buildingNumber;
             ApartmentNumber = apartmentNumber;
             PostalCode = postalCode;
             City = city;
-            Country = country;
+            CountryExternalId = countryExternalId;
+            CountryDisplay = countryDisplay;
             IsActive = isActive;
         }
 
@@ -30,7 +27,8 @@ namespace Szk3.Company.Domain.Entities.Company
 
         public string PostalCode { get; private set; } = null!;
         public string City { get; private set; } = null!;
-        public string Country { get; private set; } = null!;
+        public int CountryExternalId { get; private set; }
+        public string CountryDisplay { get; private set; } = null!;
 
         public bool IsActive { get; private set; }
 

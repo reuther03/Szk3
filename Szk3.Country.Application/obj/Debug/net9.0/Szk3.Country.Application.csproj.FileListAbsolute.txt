@@ -36,3 +36,4 @@ C:\Users\micha\Desktop\Szk3\Szk3.Country.Application\obj\Debug\net9.0\Szk3.Count
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Application\obj\Debug\net9.0\refint\Szk3.Country.Application.dll
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Application\obj\Debug\net9.0\Szk3.Country.Application.pdb
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Application\obj\Debug\net9.0\ref\Szk3.Country.Application.dll
+C:\Users\micha\Desktop\Szk3\Szk3.Country.Application\obj\Debug\net9.0\Szk3.Country.Application.sourcelink.json
