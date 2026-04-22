@@ -28,3 +28,4 @@ C:\Users\micha\Desktop\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Do
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\refint\Szk3.Country.Domain.dll
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.pdb
 C:\Users\micha\Desktop\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\ref\Szk3.Country.Domain.dll
+C:\Users\micha\Desktop\Szk3\Szk3.Country.Domain\obj\Debug\net9.0\Szk3.Country.Domain.sourcelink.json
